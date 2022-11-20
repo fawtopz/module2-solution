@@ -1,2 +1,2 @@
-# module2-solution
+# coursera_test
 cousera test repo
